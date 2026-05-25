@@ -1,3 +1,7 @@
+# Name: Nguyễn Minh Hoàng
+# Student ID: 202418904
+# Class: 763965
+
 """Bài thực hành 2 - Phần 2 - Bài 4: tìm UCLN và BCNN."""
 
 import sys
